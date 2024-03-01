@@ -50,21 +50,14 @@ btn.addEventListener("click",( )=>{
     console.log("you clicked button by operator 1");   
 })
 
-const operator2 = ( )=>{
+btn.addEventListener("click",( )=>{
     console.log("you clicked button by operator 2");   
-}
-
-btn.addEventListener("click",operator2);
+})
 
 btn.addEventListener("click",( )=>{
     console.log("you clicked button by operator 3");   
 })
 
-btn.addEventListener("click",( )=>{
-    console.log("you clicked button by operator 4");   
-})
-
-btn.removeEventListener("click",operator2);
 
 // sample bulb 
 
