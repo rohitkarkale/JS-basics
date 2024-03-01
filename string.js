@@ -47,5 +47,5 @@ let msg = "hello";
 console.log(msg.replace("lo","p"))
 
 
-let input = prompt("Enter username :")
-console.log(`@${input}${input.length}`)
+let input = prompt("Enter username :")  // if we write rohitkarkale here 
+console.log(`@${input}${input.length}`) // it returns @rohitkarkale12
