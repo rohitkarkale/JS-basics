@@ -17,7 +17,7 @@ let obj = {
     year : "Third"
 }
 
-console.log(`Hello I am from ${obj.college} college and in ${obj.year} year.`);
+console.log(`Hello I am Rohit from ${obj.college} college and in ${obj.year} year.`);
 
 
 console.log(`The addition of 1+2+3 is ${1+2+3} `);
@@ -30,7 +30,7 @@ console.log(string.toUpperCase()) ;
 // console.log(string.slice(0,5))
 
 let language = "JAVA SCRIPT"
-console.log(language.toLocaleLowerCase())
+console.log(language.toLowerCase())
 console.log(language.slice(3))
 
 let space = "  rohit karkale   "
