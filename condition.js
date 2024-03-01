@@ -26,18 +26,6 @@ console.log(color)
 // } else {
 //     console.log("number is odd")}
 
-let age = 20;
-
-if(age<18){
-    console.log("child")
-} else if (age>18){
-    console.log("Young")
-} else if (age>=60){
-    console.log("older")
-} else {
-    console.log("senior")
-}
-
 
 // let name = prompt("hello");
 // console.log(name)
