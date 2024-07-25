@@ -17,4 +17,11 @@ console.log(typeof(x));
 let y = null;
 console.log(typeof(y));
 
+const profile = {
+    name: "Rohit Karkale",
+    age : 20,
+    College : "VIIT",
+    Branch : "Mechanical"
+}
 
+console.log(typeof(profile))
